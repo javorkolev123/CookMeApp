@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CookMeApp</string>
+    <string name="title_home">Home Activity</string>
+    <string name="title_recipes">Recipes Activity</string>
+    <string name="title_favourites">Favourites Activity</string>
+    <string name="title_account">My Account Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
