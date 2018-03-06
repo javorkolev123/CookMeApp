@@ -1,4 +1,4 @@
-package com.example.george.cookmeapp;
+package com2027.group15.cw.cookmeapp;
 
 import org.junit.Test;
 

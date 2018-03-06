@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.george.cookmeapp"
+        applicationId "com2027.group15.cw.cookmeapp"
         minSdkVersion 24
         targetSdkVersion 26
         versionCode 1

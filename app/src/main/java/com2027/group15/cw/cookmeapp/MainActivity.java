@@ -1,6 +1,5 @@
-package com.example.george.cookmeapp;
+package com2027.group15.cw.cookmeapp;
 
-import android.app.Fragment;
 import android.app.FragmentManager;
 import android.graphics.Color;
 import android.os.Bundle;

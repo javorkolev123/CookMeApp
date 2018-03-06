@@ -1,4 +1,4 @@
-package com.example.george.cookmeapp;
+package com2027.group15.cw.cookmeapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.george.cookmeapp", appContext.getPackageName());
+        assertEquals("com.group15.cw.cookmeapp", appContext.getPackageName());
     }
 }
