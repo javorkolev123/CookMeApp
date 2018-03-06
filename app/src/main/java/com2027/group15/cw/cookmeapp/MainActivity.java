@@ -35,10 +35,10 @@ public class MainActivity extends AppCompatActivity {
                     recipesManager.beginTransaction().replace(R.id.containerLayout, recipesFragment, recipesFragment.getTag()).commit();
                     return true;
                 case R.id.navigation_favourites:
-                    mTextMessage.setText(R.string.title_favourites);
+                    //mTextMessage.setText(R.string.title_favourites);
                     return true;
                 case R.id.navigation_account:
-                    mTextMessage.setText(R.string.title_account);
+                    //mTextMessage.setText(R.string.title_account);
                     return true;
             }
             return false;
